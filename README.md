@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abad Diaz</h1>
-<h3 align="center">A software engineer on the road to becoming a FullStack Developer.</h3>
+<h3 align="center">A software engineer on the road to becoming an AI Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranie2704a&label=Profile%20views&color=0e75b6&style=flat" alt="ranie2704a" /> </p>
 
