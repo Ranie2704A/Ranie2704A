@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Procesing...**
 
-- 🌱 I’m currently learning **Java, Kotlin, Spring, Angular**
+- 🌱 I’m currently learning **Js, Ts, Python and Angular**
 
 - 💬 Ask me about **My future proyect**
 
