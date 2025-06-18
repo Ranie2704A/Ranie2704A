@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abad Diaz</h1>
-<h3 align="center">A software engineer on the road to becoming an AI Engineer.</h3>
+<h3 align="center">I'm on the way to becone a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranie2704a&label=Profile%20views&color=0e75b6&style=flat" alt="ranie2704a" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ranie2704" target="blank"><img src="https://img.shields.io/twitter/follow/ranie2704?logo=twitter&style=for-the-badge" alt="ranie2704" /></a> </p>
 
-- 🔭 I’m currently working on **Procesing...**
+- 🔭 I’m currently working on **My own company!**
 
-- 🌱 I’m currently learning **Js, Ts, Python and Angular**
+- 🌱 I’m currently learning **Ts + Angular**
 
 - 💬 Ask me about **My future proyect**
 
