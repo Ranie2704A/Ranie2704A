@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Ts + Angular**
 
-- 💬 Ask me about **My future proyect**
-
 - 📫 How to reach me **abadcastro424@gmail.com**
 
 - ⚡ Fun fact **I love play videogames and box!**
